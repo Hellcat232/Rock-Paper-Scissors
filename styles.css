@@ -132,12 +132,13 @@ body {
   -o-border-radius: 1rem;
 }
 
-.mk-link {
+/* .mk-link {
   position: fixed;
   bottom: 4rem;
   cursor: pointer;
 }
 
 .mk-logo {
-  width: 100px;
-}
+  width: 200px;
+  color: #f7d71e;
+} */
